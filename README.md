@@ -2,6 +2,7 @@
 
 Welcome to my personal portfolio website! This portfolio showcases my skills, projects, education, and achievements as a Computer Science graduate specializing in Artificial Intelligence & Machine Learning. It serves as a central platform to present my technical expertise, projects, and career journey.
 
+
 🚀 About the Portfolio
 
 This portfolio is designed to:
@@ -13,6 +14,7 @@ Display my resume and contact information
 Provide recruiters and professionals with an overview of my work
 
 The website is fully responsive and optimized for desktop, tablet, and mobile devices.
+
 
 ✨ Features
 Responsive Design
@@ -39,6 +41,8 @@ Development Tools
 Visual Studio Code
 Git
 GitHub
+
+
 📂 Project Structure
 MyPortfolio/
 │
@@ -52,6 +56,8 @@ MyPortfolio/
 ├── Rohan Updated Resume.pdf
 │
 └── assets (Images & Resources)
+
+
 📄 Website Sections
 🏠 Home
 Professional Introduction
@@ -59,6 +65,8 @@ Career Objective
 Animated Designation
 Social Media Links
 Resume Download Button
+
+
 👨‍💻 About Me
 
 Provides an overview of:
@@ -67,6 +75,8 @@ Educational Background
 Career Goals
 Passion for AI & Machine Learning
 Professional Interests
+
+
 💻 Skills
 
 Technical skills showcased include:
@@ -84,6 +94,8 @@ Git & GitHub
 HTML
 CSS
 JavaScript
+
+
 📁 Projects
 
 This section highlights my major projects in:
@@ -151,6 +163,8 @@ Simply open index.html in your browser.
 
 Alternatively, use VS Code Live Server for a better development experience.
 
+
+
 🎯 Future Enhancements
 
 Planned improvements include:
@@ -174,6 +188,8 @@ Rohankumar Biradar
 
 💡 Aspiring Data Engineer | AI & Machine Learning Enthusiast | Data Analytics Learner
 
+
+
 📬 Connect With Me
 
 GitHub
@@ -187,6 +203,7 @@ https://www.linkedin.com/in/rohankumar-s-biradar-01500a2a1
 Email
 
 biradarrohankumars@gmail.com
+
 
 ⭐ Support
 
